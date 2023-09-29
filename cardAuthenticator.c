@@ -2,7 +2,7 @@
 //and then reports (via printf) whether it is a valid American Express, MasterCard, or Visa card number, per the definitions of each’s format herein
 // input Number: 4003600000000014 user prompted to input their cc number 
 // ouput: VISA/mastercard/invalid - used told whether cc is valid and the brand isbased on input number and luhns algorithm
-#include <cs50.h>
+#include <cs50.c>
 #include <stdio.h>
 #include <math.h>
 int main(void)
